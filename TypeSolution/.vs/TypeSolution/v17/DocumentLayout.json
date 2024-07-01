@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IACSD\\net\\TypeSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2584B51E-3F22-4E76-B1AD-9491BCD8F601}|TestHello\\TestHello.csproj|c:\\iacsd\\net\\typesolution\\testhello\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2584B51E-3F22-4E76-B1AD-9491BCD8F601}|TestHello\\TestHello.csproj|solutionrelative:testhello\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2584B51E-3F22-4E76-B1AD-9491BCD8F601}|TestHello\\TestHello.csproj|c:\\iacsd\\net\\typesolution\\testhello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2584B51E-3F22-4E76-B1AD-9491BCD8F601}|TestHello\\TestHello.csproj|solutionrelative:testhello\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\IACSD\\net\\TypeSolution\\TestHello\\Person.cs",
+              "RelativeDocumentMoniker": "TestHello\\Person.cs",
+              "ToolTip": "C:\\IACSD\\net\\TypeSolution\\TestHello\\Person.cs",
+              "RelativeToolTip": "TestHello\\Person.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:24:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IACSD\\net\\TypeSolution\\TestHello\\Program.cs",
+              "RelativeDocumentMoniker": "TestHello\\Program.cs",
+              "ToolTip": "C:\\IACSD\\net\\TypeSolution\\TestHello\\Program.cs",
+              "RelativeToolTip": "TestHello\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:22:43.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
