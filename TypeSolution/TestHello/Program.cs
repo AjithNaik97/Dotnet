@@ -1,2 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using TestHello;
+
+
+
+Person person = new Person();
+person.setName("Ajith");
+String str=person.getName();
+Console.WriteLine(str);

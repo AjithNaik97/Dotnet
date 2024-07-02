@@ -1,0 +1,15 @@
+C:\IACSD\Dotnet\TypeSolution\TypeApp\bin\Debug\net8.0\TypeApp.exe
+C:\IACSD\Dotnet\TypeSolution\TypeApp\bin\Debug\net8.0\TypeApp.deps.json
+C:\IACSD\Dotnet\TypeSolution\TypeApp\bin\Debug\net8.0\TypeApp.runtimeconfig.json
+C:\IACSD\Dotnet\TypeSolution\TypeApp\bin\Debug\net8.0\TypeApp.dll
+C:\IACSD\Dotnet\TypeSolution\TypeApp\bin\Debug\net8.0\TypeApp.pdb
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.AssemblyInfoInputs.cache
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.AssemblyInfo.cs
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.csproj.CoreCompileInputs.cache
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.sourcelink.json
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.dll
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\refint\TypeApp.dll
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.pdb
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\TypeApp.genruntimeconfig.cache
+C:\IACSD\Dotnet\TypeSolution\TypeApp\obj\Debug\net8.0\ref\TypeApp.dll

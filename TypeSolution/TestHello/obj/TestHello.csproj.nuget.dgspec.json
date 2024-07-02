@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IACSD\\net\\TypeSolution\\TestHello\\TestHello.csproj": {}
+    "C:\\IACSD\\Dotnet\\TypeSolution\\TestHello\\TestHello.csproj": {}
   },
   "projects": {
-    "C:\\IACSD\\net\\TypeSolution\\TestHello\\TestHello.csproj": {
+    "C:\\IACSD\\Dotnet\\TypeSolution\\TestHello\\TestHello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IACSD\\net\\TypeSolution\\TestHello\\TestHello.csproj",
+        "projectUniqueName": "C:\\IACSD\\Dotnet\\TypeSolution\\TestHello\\TestHello.csproj",
         "projectName": "TestHello",
-        "projectPath": "C:\\IACSD\\net\\TypeSolution\\TestHello\\TestHello.csproj",
+        "projectPath": "C:\\IACSD\\Dotnet\\TypeSolution\\TestHello\\TestHello.csproj",
         "packagesPath": "C:\\Users\\ajju4\\.nuget\\packages\\",
-        "outputPath": "C:\\IACSD\\net\\TypeSolution\\TestHello\\obj\\",
+        "outputPath": "C:\\IACSD\\Dotnet\\TypeSolution\\TestHello\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ajju4\\AppData\\Roaming\\NuGet\\NuGet.Config",

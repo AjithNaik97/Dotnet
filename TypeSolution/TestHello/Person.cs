@@ -15,7 +15,7 @@ namespace TestHello
         //constructor overloading
         //constructor chaining
 
-        public Person(): this(23, "Raj", 23)
+        public Person() : this(23, "Raj", 23)
         {
 
         }
@@ -26,5 +26,21 @@ namespace TestHello
             this.age = age;
         }
 
+        ~Person() { }
+
+        public int getId() { return id; }
+        public string getName() { return name; }
+
+        //encapuslate getter and setter functionality
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+        public void setName(string name)
+        {
+            this.name = name;
+        }
+        public void setID(int id) { this.id = id; }
     }
 }
