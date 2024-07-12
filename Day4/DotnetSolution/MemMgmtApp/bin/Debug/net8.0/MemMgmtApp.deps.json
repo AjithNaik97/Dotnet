@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MemMgmtApp/1.0.0": {
+        "runtime": {
+          "MemMgmtApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MemMgmtApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

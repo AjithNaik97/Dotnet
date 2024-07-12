@@ -1,0 +1,30 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <html>
+    <head>
+        <title> Prodcuts Details</title>
+    </head>    
+    <body>
+        <form asp-action="GetById" method="post" >
+            <label for="productID">Enter Product ID</label>
+            <input type="text" id="productID" name="id" />
+            <button type="submit">Get Product</button>
+        </form>    
+
+        @if(ViewData["catalog"]!=null)
+        {
+            var products = (Products)ViewData["catalog"];
+            <ul>
+                <li>Title: @products.Title</li>    
+                <li>Description: @products.Description</li>
+                <li>Unit Price :@products.UnitPrice</li>
+                <li>Quantity : @products.Quantity</li>
+                <li>Image URL: @products.ImageUrl</li>
+            </ul>
+
+        }
+    </body>
+    </html>
+}

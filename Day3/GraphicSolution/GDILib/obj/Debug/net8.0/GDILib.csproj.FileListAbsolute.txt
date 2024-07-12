@@ -1,0 +1,12 @@
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\bin\Debug\net8.0\GDILib.deps.json
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\bin\Debug\net8.0\GDILib.dll
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\bin\Debug\net8.0\GDILib.pdb
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.GeneratedMSBuildEditorConfig.editorconfig
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfoInputs.cache
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.AssemblyInfo.cs
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.csproj.CoreCompileInputs.cache
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.sourcelink.json
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.dll
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\refint\GDILib.dll
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\GDILib.pdb
+C:\IACSD\Dotnet\Day3\GraphicSolution\GDILib\obj\Debug\net8.0\ref\GDILib.dll

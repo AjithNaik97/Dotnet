@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:repository\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\repository\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:repository\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|c:\\iacsd\\dotnet\\studentmanagementsystem\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{479B941C-9343-4972-9EBA-7FA3CBB287BC}|StudentManagementSystem.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:13:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:13:36.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Repository\\StudentManager.cs",
+              "RelativeDocumentMoniker": "Repository\\StudentManager.cs",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Repository\\StudentManager.cs",
+              "RelativeToolTip": "Repository\\StudentManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:06:57.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Repository\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "Repository\\CollectionContext.cs",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Repository\\CollectionContext.cs",
+              "RelativeToolTip": "Repository\\CollectionContext.cs",
+              "ViewState": "AQIAAA0AAADAzMzMzMwiwBsAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T06:06:30.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAABAZmZmZmYkwDEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:06:45.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T05:01:17.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\IACSD\\Dotnet\\StudentManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAzMzMzMwEwBwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T05:00:09.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

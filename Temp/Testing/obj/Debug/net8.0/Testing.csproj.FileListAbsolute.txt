@@ -1,0 +1,15 @@
+C:\IACSD\Dotnet\Temp\Testing\bin\Debug\net8.0\Testing.exe
+C:\IACSD\Dotnet\Temp\Testing\bin\Debug\net8.0\Testing.deps.json
+C:\IACSD\Dotnet\Temp\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+C:\IACSD\Dotnet\Temp\Testing\bin\Debug\net8.0\Testing.dll
+C:\IACSD\Dotnet\Temp\Testing\bin\Debug\net8.0\Testing.pdb
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.sourcelink.json
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.dll
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\refint\Testing.dll
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.pdb
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+C:\IACSD\Dotnet\Temp\Testing\obj\Debug\net8.0\ref\Testing.dll
